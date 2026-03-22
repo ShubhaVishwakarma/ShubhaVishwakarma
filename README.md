@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Shubha Vishwakarma 👋
 
-<!--
-**ShubhaVishwakarma/ShubhaVishwakarma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Flutter Developer | 💻 Freelancer  
 
-Here are some ideas to get you started:
+📱 Building Android apps with Flutter & Dart  
+🌱 Passionate about learning new technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Skills
+- Flutter
+- Dart
+- Git
+- GitHub
+
+---
+
+## 📱 Projects
+🧮 Flutter Calculator App  
+https://github.com/ShubhaVishwakarma/calculator
+
+---
+
+⭐ If you like my projects, please give them a star!
